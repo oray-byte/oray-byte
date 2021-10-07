@@ -6,7 +6,7 @@ While I have not had any professional experiences in a work environment, I have 
 I am looking to broaden my skills, gain invaluable experience, and work alongside professionals. With an internship or COOP, I believe I can do that.
 
 ## Goals
-My long-term goal is graduate college, join the professional world as a software developer, and later rejoin the academic world to obtain my master, and PhD if I am ambitious, for cyber security or artifical intelligence. As for my short-term goals, I want to become a chair head for a committee in my fraternity, obtain a internship before graduating, and engage in research.
+My long-term goal is graduate college, join the professional world as a software developer, and later rejoin the academic world to obtain my masters, and PhD if I am ambitious, for cyber security or artifical intelligence. As for my short-term goals, I want to become a chair head for a committee in my fraternity, obtain a internship before graduating, and engage in research.
 
 ## Contact Info
 Email: ray6576@outlook.com
