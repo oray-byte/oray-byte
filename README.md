@@ -1,15 +1,14 @@
 ## Introduction
-My name is Owen Miller-Fast; I am a student at Missouri S&T. I came from a split family in La Plata, MO. Growing up, I did not have access to a personal computer until I was fifteen. When I got my own computer, I became extremely interested in programming and how the computer worked; to this day, my interest still grows.
-
-While I have not had any professional experiences in a work environment, I have had many experience through personal and academic projects. For example, I took a robotics class over the previous summer. In the class, I had to design a miniature elevator, create a flow diagram, write the script in C, and finally implement the script. The script allowed the miniature elevator to detect what level it was at, respond to user input, and raise and lower the carriage.
-
-I am looking to broaden my skills, gain invaluable experience, and work alongside professionals. With an internship or COOP, I believe I can do that.
+My name is Owen Miller-Fast; I graduated from Missouri University of Science and Technology in August 2025. Today, I work in a cross-functional team developing software for DEVCOM AvMC's mission. My love for all-things technology began to bloom when I was thirteen years old when I received my first PC. I would break computers and put them back together to just break them again. After some time, I got interested in how applications and games ran, so history repeated itself. I would program things that would end up breaking the computer and spent time trying to fix them; I had to do a lot of reinstallations. I decided to make programming my career path in highschool, using my spare time to learn programming languages and concepts. Embarrassingly, I wanted to learn because I wanted to become a "master hacker." Although that is no longer my ambition (and I never created any malware), I am grateful my misguided ambition set me down this path. 
 
 ## Goals
-My long-term goal is graduate college, join the professional world as a software developer, and later rejoin the academic world to obtain my masters, and PhD if I am ambitious, for cyber security or artifical intelligence. As for my short-term goals, I want to become a chair head for a committee in my fraternity, obtain a internship before graduating, and engage in research.
-
+- Obtain a Master's Degree in computer science.
+- Create an online community where individual developers can meet, team together, brainstorm, and bring those ideas to life. A community that fosters creativeness, innovation, and cooperation among developers.
+- Develop apps that improves the day-to-day life of users.
+- Make meaningful contributions to the computer science community.
+  
 ## Contact Info
-Email: ray6576@outlook.com
+Email: oraybyte@gmail.com
 
 ## Sites
 [LinkedIn](https://www.linkedin.com/in/owen-miller-fast/)
